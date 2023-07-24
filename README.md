@@ -1,6 +1,6 @@
 ## Mei Kimura 👋🏼
 <div align="center">
-  <img src="https://github.com/Mei-Kim/Mei-Kim/assets/113065564/033a5e05-2540-4198-918c-5ff1ef349797)" width="100" height="200"/>
+  <img src="https://github.com/Mei-Kim/Mei-Kim/assets/113065564/033a5e05-2540-4198-918c-5ff1ef349797)" width="50" height="100"/>
 </div>
 
 <div id="badges">
