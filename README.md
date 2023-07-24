@@ -19,5 +19,5 @@ SQL & Python
 
 ---
 ##
-⚡ Fun fact: I have been training in martial arts for 20 years!
+⚡ Fun fact: I have been training in martial arts for 20 years 🥋
 
