@@ -17,7 +17,7 @@ I am a Data Analyst who is currently working in the health-technology field.
 # Languages
 SQL & Python
 
--- 
+---
 ##
 ⚡ Fun fact: I have been training in martial arts for 20 years!
 
